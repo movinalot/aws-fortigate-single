@@ -1,1 +1,3 @@
-# aws-fortigate-single
+# AWS FortiGate Single
+
+aws-fortigate-single
